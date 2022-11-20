@@ -5,6 +5,7 @@
 
 body {
     color: #1b1b1b;
+    background-color: #fecfcc6a;
 }
 
 h1 {
@@ -79,7 +80,7 @@ button:hover {
     font-weight: 700;
     font-size: 14px;
     text-align: center;
-    color: #BDBDBD;
+    color: #515151;
 }
 
 .created--by a {
