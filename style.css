@@ -25,11 +25,27 @@ img {
     width: 500px;
 }
 
-.title--bad--news {
-    
-        
-}
 
 h2 {
-   
+    width: 586px;
+    height: 190px;
+    top: 265px;
+    left: 735px; 
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -3.5%;
+}
+
+.title--bad--news p {
+    width: 381px;
+    height: 108px;
+    top: 491px;
+    left: 736px;
+    font-family: 'Space Mono', monospace;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35.5px;
+    letter-spacing: -3.5%;    
 }
